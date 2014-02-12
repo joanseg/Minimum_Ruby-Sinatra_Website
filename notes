@@ -1,1 +1,4 @@
-notes
+
+or try: git logs
+
+cat ~/.ssh/id_rsa.pub
