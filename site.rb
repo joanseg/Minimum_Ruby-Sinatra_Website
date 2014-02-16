@@ -3,8 +3,8 @@ get '/' do
 	erb :index
 end
 
-get '/italian' do
-	"ciao"
+get '/read_more' do
+	erb :read_more
 end
 
 get '/spanish' do
